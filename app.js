@@ -8,7 +8,7 @@ let operation= ""
 let answer
 let decimalAdded= false
 
-const operators = ['+', '-','x','/']
+const operators = ['+','-','x','/']
 
 function handleKeyPress(e){
     const key = e.target.dataset.key
